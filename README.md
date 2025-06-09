@@ -176,7 +176,7 @@ Proyek ini dilindungi oleh [MIT License](LICENSE).
 ## Contact & Support
 
 Untuk pertanyaan dan dukungan:  
-📧 **rama@ncssecurity.com**  
+📧 **offcncs@gmail.com**  
 📄 **GitHub Issues**: https://github.com/RamaFounderNCS/SQLIScannerNCS/issues
 
 ---
